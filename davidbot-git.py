@@ -62,4 +62,4 @@ async def playing(ctx):
     await client.send_message(context.message.channel, np)
 
 bot_prefix = "d."
-client.run("MzQ3NzkwOTA2OTU2NzA5ODg5.DHdiIg.-4N24b-Hbv7TtC_li9Tco0eqUB8")
+client.run("INSERT_TOKEN_HERE")
