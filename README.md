@@ -5,6 +5,7 @@
 ## Setting Up
 
 **These instructions require sudo**
+
 **If you can not/do not want to install sudo, substitute sudo with su -c "INSERT_COMMAND"**
 
 ### Cloning the Repo
